@@ -1,0 +1,10 @@
+C:\Users\Niro\source\repos\AR Practise1\AR Practise1\bin\Debug\AR Practise1.exe.config
+C:\Users\Niro\source\repos\AR Practise1\AR Practise1\bin\Debug\AR Practise1.exe
+C:\Users\Niro\source\repos\AR Practise1\AR Practise1\bin\Debug\AR Practise1.pdb
+C:\Users\Niro\source\repos\AR Practise1\AR Practise1\obj\Debug\AR Practise1.csprojAssemblyReference.cache
+C:\Users\Niro\source\repos\AR Practise1\AR Practise1\obj\Debug\AR_Practise1.Form1.resources
+C:\Users\Niro\source\repos\AR Practise1\AR Practise1\obj\Debug\AR_Practise1.Properties.Resources.resources
+C:\Users\Niro\source\repos\AR Practise1\AR Practise1\obj\Debug\AR Practise1.csproj.GenerateResource.cache
+C:\Users\Niro\source\repos\AR Practise1\AR Practise1\obj\Debug\AR Practise1.exe
+C:\Users\Niro\source\repos\AR Practise1\AR Practise1\obj\Debug\AR Practise1.pdb
+C:\Users\Niro\source\repos\AR Practise1\AR Practise1\obj\Debug\AR_Practise1.Passenger_Lookup.resources
